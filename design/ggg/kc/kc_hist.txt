@@ -1,0 +1,7 @@
+Klon Centaur Replica History File
+
+2014-09-10 - Started History File.
+2017-09-17 - Updated some capacitor values in the BOM
+2018-09-05 - Removed some extra wording in Instructions and added schematic and layout for true-bypass wiring.
+2019-05-17 - Fixed wiring diagram for the True bypass wiring.  Output wires to the footswitch were reversed.
+

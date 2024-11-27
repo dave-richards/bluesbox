@@ -1,0 +1,8 @@
+Marshall Bluesbreaker History File
+
+2014-07-28 - Started History File.
+2015-06-10 - Updated the modernized schematic so that R7 and C7 matches the layout order.
+2018-09-12 - Added new PCB information with mods for KOT and Morning Glory.
+2019-05-20 - Updated the original schematic diagram, the orange color on one of the VREF markers was missing and was fixed.
+2019-07-02 - Updated KOT Mod Layout and Schematic diagrams to correct the Presence control placement.
+2019-07-17 - Updated Modification file wording and updated the BOM & Instructionns to reflect combined Coupling caps and resistors (R8 and and C6) no more R7 and C7.

@@ -1,0 +1,4 @@
+Six Band Graphic Equalizer Project History File
+
+2014-10-18 - Started History File.
+2014-10-18 - Updated project with new schematic file

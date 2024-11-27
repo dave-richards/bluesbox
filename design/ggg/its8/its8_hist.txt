@@ -1,0 +1,7 @@
+Ibanez Tube Screamer Replica History File
+
+2014-07-27 - Started History File.
+2014-07-30 - Added missing link to the Instructions.
+2018-11-15 - Added wiring diagram for 6-way diode selector.
+2019-10-08 - Added transistor pin designations
+2019-11-20 - Updated some photos
