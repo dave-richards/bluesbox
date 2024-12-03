@@ -1,0 +1,5 @@
+Dallas Arbiter Rangemaster History File
+
+2014-06-18 - Started History File.
+2015-01-01 - Updated with R11 and Instruction File.
+2021-09-01 - Updated NPN layout diagram with transistor orientation and cap polarity.
