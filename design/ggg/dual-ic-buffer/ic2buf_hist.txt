@@ -1,0 +1,8 @@
+Dual IC Buffer History File
+
+2014-06-18 - Started History File.
+2014-07-27 - Fixed error with mislabeling of Pads O1 and O2
+2014-07-28 - Fixed Jack labels on layout to match the schematic
+2014-10-22 - Added the Bill of Materials
+2016-01-11 - Fixed the missing wire from the battery on the 2-line dual buffer diagram
+2018-07-25 - Added layout for 1input, 2 output splitter
