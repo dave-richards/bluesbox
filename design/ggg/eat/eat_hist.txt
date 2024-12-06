@@ -1,0 +1,8 @@
+EA Tremolo History File
+
+2014-11-18 - Started History File.
+2014-11-18 - Added transistor pin designations to the main layout files.
+2014-11-22 - Fixed transistor pin designations
+2015-03-18 - Fixed transistor Q3 pin designations on the Dual footswitch layout.
+2017-11-05 - Added diagram for dual footswitch, flashing LED on bypass switch.
+2018-01-09 - Added transistor names to layout diagrams.
