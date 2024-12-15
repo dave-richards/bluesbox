@@ -1,0 +1,7 @@
+Ty* Octav* Project History File
+
+2014-09-12 - Started History File.
+2014-09-12 - Updated the Instructions file with a new "Insides" photo and corrected voltage readings for Q3
+2014-11-09 - Updated with a 1k Reverse Log (to replace Linear Taper)  "Intensity" control potentiometer.  Linear works fine but Reverse Log has a smoother control.
+2016-04-14 - Ceased and Desisted in using the actual name of what this is a replica of.
+2017-02-26 - added 1k resistor to the green LED in the dual foot switch version layout.

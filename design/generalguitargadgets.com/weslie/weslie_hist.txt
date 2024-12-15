@@ -1,0 +1,5 @@
+Weslie Project History File
+
+2015-06-10 - Started History File. updated MPF102 listing in the BOM
+2015-11-17 - Updated the voltage readings on the instructions file.
+
