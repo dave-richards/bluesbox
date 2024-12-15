@@ -1,0 +1,8 @@
+Univox Super Fuzz History File
+
+2014-05-14 - Started History File, created this new Super Fuzz Project.
+2014-05-15 - Added Modification information and corrected a couple of minor typos in instructions.
+2014-06-18 - Updated to show proper orientation of the 2N2222A transistors.  Updated the layout files and the BOM and Instructions.
+2014-06-20 - Added C18 to the BOM and corrected a couple of non-critical typos in the instructions.
+2014-10-30 - Updated c13 to 0.056uF in the Tone knob version
+2014-12-16 - Updated the layout files with transistor pin designations

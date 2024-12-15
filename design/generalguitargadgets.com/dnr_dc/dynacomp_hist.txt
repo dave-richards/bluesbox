@@ -1,0 +1,4 @@
+MXR Dynacomp History File
+
+2014-06-18 - Started History File.
+2014-12-30 - Fixed some wording in the instructions file.

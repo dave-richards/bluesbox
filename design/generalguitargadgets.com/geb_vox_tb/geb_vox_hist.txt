@@ -1,0 +1,4 @@
+Vox Treble Booster History File
+
+2014-12-07 - Started History File.
+2015-03-23 - Updated R3 designation on the documentation.

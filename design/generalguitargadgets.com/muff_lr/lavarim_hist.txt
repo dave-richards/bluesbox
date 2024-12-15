@@ -1,0 +1,5 @@
+Muff Fuzz History File
+
+2018-11-28- Started History File.
+2018-11-28 - Removed R8 from Lava Rim Layout file.
+

@@ -1,0 +1,4 @@
+A/B Switch Project History File
+
+2014-07-04 - Started History File.
+2015-02-16 - Added information about optional 100k resistors that can be used to help stop switch popping.

@@ -1,0 +1,3 @@
+Dicrete Buffer History File
+
+2014-07-04 - Started History File.

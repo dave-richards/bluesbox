@@ -1,0 +1,5 @@
+EHX LPB2 Replica History File
+
+2014-06-18 - Started History File.
+2018-06-24 - Updated with information for Volume pot on input
+             modification.

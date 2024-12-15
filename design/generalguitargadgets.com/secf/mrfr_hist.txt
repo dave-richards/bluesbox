@@ -1,0 +1,5 @@
+Mosrite Fuzzrite History File
+
+2015-03-24 - Started History File.
+2015-03-24 - Added Instructions file to project.
+2015-09-09 - Added pin marking on transistors on the layout file.

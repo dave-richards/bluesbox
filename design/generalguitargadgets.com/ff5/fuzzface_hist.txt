@@ -1,0 +1,7 @@
+Fuzz Face History File
+
+2014-11-18 - Started History File.
+2014-11-19 - Added R6 designation to some of the layout files where it was missing.  Fixed inconsistancies with pulldown resistors R1 and R12 in all the versions.  Fixed the instrucion file to be read more easily.
+2016-09-14 - Added "Late 60's NPN transistor" version schematic and layout/wiring diagram.
+2018-06-26 - Fix R7 value in Easy Face BOM
+

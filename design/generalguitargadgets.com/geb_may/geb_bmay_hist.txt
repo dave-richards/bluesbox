@@ -1,0 +1,7 @@
+Brian May Treble Booster Project History file
+
+2014-07-04 - Started History File.
+2015-01-01 - Updated To the Fryer Deluxe version.
+2015-02-23 - Fixed R3 a & b designations
+2015-07-05 - Updated to show the original BC239A transistor
+2021-08-31 - Fixed R4 value to 2k2 in the BOM

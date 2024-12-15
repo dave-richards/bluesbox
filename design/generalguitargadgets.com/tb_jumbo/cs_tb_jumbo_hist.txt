@@ -1,0 +1,4 @@
+ColorSound Jumbo ToneBender History File
+
+2014-12-05 - Started History File.
+2014-12-05 - Updated BOM file with C11 value and Clipper diode correction.

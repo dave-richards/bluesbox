@@ -1,0 +1,10 @@
+ColorSound ToneBender 3-knob Project History File
+
+2014-07-31 - Started History File.
+2014-08-01 - Updated Silicon version BOM (deleted R10 for the resistors)
+2014-12-03 - Updated Boutique version BOM (deleted R10 for the resistors)
+2014-12-03 - Updated YardBox version BOM (update R12, R13, R14, R15, R16, R17, C2, C7 & C8)
+2014-12-03 - Updated YardBox version Layout Pot values
+2014-12-03 - Updated Tone Burner version Layout (Removed R14)
+2014-12-03 - Updated Tone Burner version Schematic (Corrected C2 value)
+2014-12-03 - Updated Tone Burner version BOM (Corrected C2 and C8 values)

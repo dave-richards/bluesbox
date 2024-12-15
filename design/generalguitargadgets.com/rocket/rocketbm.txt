@@ -1,0 +1,40 @@
+Rocket Fuzz 
+Bill of Materials
+   From:  Guitar Effects Projects
+Revison:  2009-06-01
+
+Resistors (1/4 watt rating)
+1 - 100 ohm
+1 - 1k2 (1.2k)
+4 - 10k
+1 - 47k
+1 - 470k 
+1 - 1M
+1 - 4M7 (option)
+
+Pots  (1/4 watt rating)
+1 - 10k  linear (Tone)
+1 - 50k  linear (Drive)
+1 - 100k log    (Volume)
+1 - 4k7 (4.7k)  trim pot
+
+Capacitors (minimum 16 volt rating)
+2 - 0.01uF film
+5 - 0.1uF  film
+1 - 47uF   aluminum electrolytic
+
+
+Transistors
+3 - 2N5089 Transistor
+
+Other
+3 - Transistor sockets (optional)
+2 - quarter inch jacks
+9v battery snaps & holder and/or DC jack
+Copper-clad board, etchant, 24 gauge stranded wire
+3PDT or DPDT heavy duty footswitch
+Enclosure
+LED and 8k2 resistor, option if you have a 3PDT for indicator LED.
+
+Copyright 2003  JD Sleep
+Guitar Effects Projects @ http://www.generalguitargadgets.com

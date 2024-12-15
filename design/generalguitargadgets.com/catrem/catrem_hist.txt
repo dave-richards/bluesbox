@@ -1,0 +1,7 @@
+Craig Anderton's Tremolo History File
+
+2014-10-15 - Started History File. Added the instructions and also added alternates for the LDR/LED unit in the Bill of Materials
+2014-10-17 - Added a new mod to boost the volume level up by changing R6 to a 15k resistor.
+2014-10-24 - Added C9 to schematic and layout and re-wording in the instructions. 
+2015-07-20 - Fixed transistor value from 2N3904 to 2N3906 in the layout file and added Q1 to the Bill of Materials. Changed some wording in the Instructions file.
+2015-08-04 - fixed the PCB file where there was an inadvertent trace crossing.

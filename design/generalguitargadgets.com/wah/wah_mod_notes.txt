@@ -1,0 +1,56 @@
+Mod-able Wah Project notes
+Revision 02 June 2004
+
+
+Thanks to Gerben Koopman for this wonderful project!  I have slightly enhanced
+his original project and created an improved pcb mask.
+
+The idea of this project is to use an exsisting wah and replace the circuit board 
+add a couple rotary switches and have a "super wah"!
+
+The PCB has 3 different ways to change the sound:
+1.  different trimpots to change the 'timbre' of the Wah
+2.  different capacitors to select the range over which the filter works 
+3.  selection of 1 of 2 inductor or 2 inductors in series.
+
+
+Trimpots
+--------
+You can measure the trimpots before you install them.  Using a ohm-meter you
+can tune the trimpot into the original value of the resistor it is replacing
+and mark that spot on the trimpot.  This will give you a reference for tuning
+the trim pots once the project is up and running.
+
+1. Gain-50K-pot (R1b). This gives, together with the 22K, the original 68 K for the 
+   input resistor. Lowering the value gives more gain and a bit more bass. 
+   This pot can be used to make the wah uni-gain or to give a small volume 
+   boost.
+
+2. 'Saturation'-5K-pot (R2). This replaces the 1K5-resistor. To my ears it gives 
+   more mid/saturation when raising the value. Go easy on this one or the 
+   sound will get to muddy.
+
+3. Q-50K-pot (R7b). The original 33K is still in place. Changes the the Q of the 
+   filter. Raising this pot gives a more peaky wah sound.
+
+4. 'Honk'-1K-pot (R4). This replaces the original 510/470 Ohm-resitor. Lowering 
+    this one gives more 'Honk' to my ears. 
+
+Capacitors (C2a-f)
+Bigger value caps = lower frequency range
+
+Suggested values; 5n6, 8n2, 10n (original), 15n, 22n and 33n. Try and see 
+what you like. Use a 6PDT rotaryswitch with 'break-before-make' contacts. 
+You can place a 1M-resistor over every pole on the switch stop the popping 
+(which is really loud!) when switching when the wah is in use. 
+
+Inductors.
+Using 2 inductors in series gives a really fat sound which is different 
+than switching the 'range-capacitor'. The Fulltone-inductor gives my 
+main-sound and I use the original Vox-inductor in series for the 'fat'-sound. 
+
+Note that the diagram shows wiring for a rotary switch, you can also use a 4PDT on-on-on toggle switch if you can find one.
+
+Copyright 2004  JD Sleep
+http://www.generalguitargadgets.com
+

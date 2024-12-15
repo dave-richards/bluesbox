@@ -1,0 +1,4 @@
+Dual Booster Projects History File
+
+2019-08-25 - Started History File.
+2019=08-25 - Fixed the pulldown resistors on the layouts that have bypass switching

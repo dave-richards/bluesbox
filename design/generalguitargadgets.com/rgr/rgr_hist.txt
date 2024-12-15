@@ -1,0 +1,5 @@
+Dan Armstrong Red Ranger Project History file
+
+2015-09-03 - Started History File.
+2016-09-15 - Updated with Volume Control Option fixed transistor label mistake on the layout.  Added instructions file.
+

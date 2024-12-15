@@ -1,0 +1,7 @@
+Effects Loop Switch Boxes Project History file
+
+2014-06-18 - Started History File.
+2014-09-02 - Added a link to the Dual Effects Loop kit and corrected some wording on this page.
+2017-01-25 - Added standard dual loop
+2019-08-25 - Updated single loop labeling to "Send" & "Return".  Added Buffer versions to single and double loop switche options.  Also added booster version to double loop options.
+2019-08-27 - Added another Buffer wiring option for the Loop box.  Added User Manuals for the Loop Box and the Dual Loop Box.

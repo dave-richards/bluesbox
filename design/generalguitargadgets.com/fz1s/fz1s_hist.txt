@@ -1,0 +1,5 @@
+Maestro FZ-1S History File
+
+2014-10-12 - Started History File.
+2014-10-13 - Updated the layout file with corrected "Balance" wiring.
+2014-10-14 - Corrected C6 value from 0.1uF to the correct value of 0.01uF
